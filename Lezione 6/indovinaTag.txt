@@ -1,0 +1,19 @@
+-docktype   
+-html
+-head
+-title
+-body
+-h1         1
+-p          1
+-button    -1
+-p          1
+-img        1
+-h2        -1
+-p          1
+-table      1
+-h3        -1 
+-p
+-img
+-h4
+-ul
+-ol

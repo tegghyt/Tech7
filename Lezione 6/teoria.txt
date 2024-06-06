@@ -1,0 +1,3 @@
+<strong> Grassetto
+<i> italic corsivo
+<ef> corsivo, ma serrve per enfatizzare una parte di testo
