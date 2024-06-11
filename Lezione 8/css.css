@@ -21,3 +21,20 @@
     height: 24px;
     width: 24px;
 }
+
+.card{
+    display: inline-block;
+    border: 1px solid gray;
+    width: 35%;
+    height: 25%;
+    border-radius: 10px;
+    border-left: 35%;
+}
+
+#p_intestazione{
+    opacity: 60%;
+}
+
+#p_fondo{
+    opacity: 60%;
+}
