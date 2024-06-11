@@ -1,0 +1,23 @@
+.intestazione{
+
+}
+
+#profile_img{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+#Logo_of_Twitter{
+    height: 30px;
+    width: 38px;
+}
+
+#tag{
+    color:#1DA1F2;
+}
+
+#cuore{
+    height: 24px;
+    width: 24px;
+}
