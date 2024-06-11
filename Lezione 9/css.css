@@ -1,0 +1,41 @@
+.intestazione{
+
+}
+
+#profile_img{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    display: block;
+}
+
+#Logo_of_Twitter{
+    height: 30px;
+    width: 38px;
+}
+
+#tag{
+    color:#1DA1F2;
+}
+
+#cuore{
+    height: 24px;
+    width: 24px;
+}
+
+.card{
+    display: inline-block;
+    border: 1px solid gray;
+    width: 35%;
+    height: 25%;
+    border-radius: 10px;
+}
+
+#p_intestazione{
+    opacity: 60%;
+    display: block;
+}
+
+#p_fondo{
+    opacity: 60%;
+}
