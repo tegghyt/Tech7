@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+
+}
+
+.card {
+    position: absolute;
+    top: calc(50% - 228 / 2);
+    left: calc(50% - 601 / 2);
+    width: 601px;
+    height: 228px;
+    box-shadow: 0px 15px 60px 0px #1DA1F226;
+}
+
+.header{
+
+}
+
+.profile_img {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
