@@ -1,0 +1,75 @@
+body{
+    background: #2A293F;
+    ;
+}
+
+.header{
+    justify-content: space-around;
+}
+
+.divLogo{
+    display: inline;
+    width: 220px;
+    height: 48px;
+}
+
+.nav{
+    display: inline;
+    margin-left: 150px;
+}
+
+.divNav1{
+    display: inline;
+    width: 120px;
+    height: 47px;
+}
+
+.divNav2{
+    display: inline;
+    width: 219px;
+    height: 47px;
+}
+
+.divNav3{
+    display: inline;
+    width: 269px;
+    height: 47px;
+}
+
+.divNav4{
+    display: inline;
+    width: 290px;
+    height: 47px;
+}
+
+.divUtility{
+    display: inline;
+    width: 220px;
+    height: 44px;
+}
+
+.main{
+
+}
+
+.divMain1{
+
+}
+
+.p1div1{
+    font-family: Impact;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 78.06px;
+    text-align: left;
+   
+}
+
+.p2div1{
+    font-family: Impact;
+    font-size: 96px;
+    font-weight: 400;
+    line-height: 117.09px;
+    text-align: left;
+    
+}
