@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.sezzione{
+    width: 25%;
+    height: 20%;
+    background: blue;
+    border: solid black;
+}
+
+@media (min-with: 300px){
+    .sezzione{
+        display: block;
+    }
+}
+
+@media (max-with: 750px){
+    .sezzione{
+        display: inline;
+    }
+}
