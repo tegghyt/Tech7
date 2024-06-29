@@ -1,0 +1,9 @@
+JS si puo usare sia interno e esterno come per css
+
+alter fa apparire un pop-up sullo scermo
+
+const serve per inizializzare una variabile costante
+
+let altra variabili
+
+console.log() se stampare su console
