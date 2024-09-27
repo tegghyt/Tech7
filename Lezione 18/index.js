@@ -24,4 +24,4 @@ elementButtonMenu.addEventListener("click", () =>{
 
 elementButtonCloseMenu.addEventListener("click", () =>{
     elementSideBar.classList.remove"open")
-})
+}) 
