@@ -12,7 +12,7 @@ const ballWidth = elementBall.offsetWidth;
 
 let velocity = 10;
 
-setInterval(()=>{
+setInterval(()=>{   
     elementBall.style.left = elementBall.offsetLeft + velocity + 'px';
     if(elementBall.offsetLeft > screenWidth - ballWidth || elementBall.offsetLeft <= 0){
         velocity = -velocity;
